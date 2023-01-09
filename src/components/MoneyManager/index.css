@@ -1,0 +1,7 @@
+/* Write your CSS here */
+
+.history {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
